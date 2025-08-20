@@ -172,6 +172,8 @@ class NewFaxScreen extends StatelessWidget {
     );
   }
 
+
+
   Widget _recentFilesLabel() {
 
     return Text("Recent Files", style: TextStyle(fontSize: 14));

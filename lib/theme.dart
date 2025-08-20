@@ -18,6 +18,7 @@ class AppColors {
   AppColors._();
 }
 
+
 class AppSizes {
   static const double medium = 16;
   static const double small = medium / 2;

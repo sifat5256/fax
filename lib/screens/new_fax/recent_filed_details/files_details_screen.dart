@@ -23,6 +23,7 @@ class FileDetailsScreen extends StatelessWidget {
         elevation: 0,
         actionsPadding: EdgeInsets.all(12),
         actions: [
+
           Icon(BootstrapIcons.box_arrow_in_down,color: Colors.blue,size: 17,),
           SizedBox(width: 12,),
           Icon(BootstrapIcons.trash,color: Colors.red,size: 17,),

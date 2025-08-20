@@ -19,6 +19,7 @@ class TemplateScreen extends StatelessWidget {
         child: Column(
           children: const [
             TemplateCard(title: "Classic"),
+
             SizedBox(height: 16),
             TemplateCard(title: "Modern"),
             SizedBox(height: 16),

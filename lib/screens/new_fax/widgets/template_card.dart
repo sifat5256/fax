@@ -47,6 +47,7 @@ class TemplateCard extends StatelessWidget {
                       ),
 
                     ],
+
                   ),
                   const SizedBox(height: 16),
                   const LabeledTextField(label: "To", hintText: "Recipient Name"),

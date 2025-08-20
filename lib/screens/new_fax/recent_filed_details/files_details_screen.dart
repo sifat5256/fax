@@ -31,6 +31,7 @@ class FileDetailsScreen extends StatelessWidget {
           SizedBox(width: 12,),
           Icon(BootstrapIcons.x_lg,size: 17,),
 
+
         ],
       ),
       body: Padding(
